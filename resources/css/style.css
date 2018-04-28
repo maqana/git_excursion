@@ -15,3 +15,21 @@ h1 {
   color: Aquamarine;
   font-size: 16px;
 }
+
+.information {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.subheading {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+
+.copyright {
+  text-align: right;
+  color: Gray;
+}
